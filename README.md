@@ -1,4 +1,4 @@
-# Stanford-Dogs-Breeds-Classification
+# Stanford_Dog_Breeds_Classification
 Deep Learning Models Comparision for Images Classification
 - Built CNNs
 - VGG16
